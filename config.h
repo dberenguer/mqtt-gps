@@ -37,7 +37,7 @@ const uint32_t TX_INTERVAL = 30000;
 /**
  * MQTT broker settings
  */
-const char MQTT_BROKER[] = "51.158.67.158";
+const char MQTT_BROKER[] = "broker_ip_addr";
 const uint16_t MQTT_PORT = 1883;
 const char MQTT_USERNAME[] = "";
 const char MQTT_PASSWORD[] =  "";
